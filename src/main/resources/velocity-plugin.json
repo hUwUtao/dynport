@@ -1,0 +1,9 @@
+{
+  "id": "dynport",
+  "name": "DynPort Vourte",
+  "version": "0.1.0",
+  "description": "Fallback and reroute",
+  "authors": ["hUwUtao"],
+  "dependencies": [],
+  "main": "me.hUwUtao.dynport.Plugin"
+}
